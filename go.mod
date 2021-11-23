@@ -2,6 +2,4 @@ module lenslocked.com
 
 go 1.16
 
-require (
-
-)
+require github.com/gorilla/mux v1.8.0
